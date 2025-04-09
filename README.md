@@ -11,7 +11,8 @@
 - 엑셀 업로드 기반 자동 처리
 
 ## 사용법
-1. 이 저장소를 Streamlit Cloud에 연결하거나 로컬에서 실행하세요.
+1. 이 저장소를 Streamlit Cloud에 연결하였음
+- https://anova-duncan-app-mbjjexfvqdh8vnldxjaku4.streamlit.app/
 2. 앱 실행:
 ```bash
 streamlit run ANOVADUNCAN.py
